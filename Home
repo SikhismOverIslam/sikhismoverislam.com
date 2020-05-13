@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body onload="myFunction()">
+
+<script>
+function myFunction() {
+  location.href = "https://sikhismoverislam.blogspot.com";
+}
+</script>
+
+</body>
+</html> 
